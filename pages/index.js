@@ -36,7 +36,7 @@ export default function Home() {
       <main className=" bg-white px-10 dark:bg-gray-900 md:px-20 lg:px-40">
         <section className="min-h-screen">
           <nav className="py-10 mb-12 flex justify-between dark:text-white">
-            <h1 className="font-burtons text-xl">Portofolio</h1>
+            <h1 className="font-burtons text-xl">Faqih</h1>
             <ul className="flex items-center">
               <li>
                 <BsFillMoonStarsFill
@@ -133,7 +133,7 @@ export default function Home() {
               <p className="text-gray-800 py-1">Visual Code Studio</p>
               <p className="text-gray-800 py-1">Git</p>
               <p className="text-gray-800 py-1">Vercel</p>
-              <p className="text-gray-800 py-1">Figma</p>
+              <p className="text-gray-800 py-1">Xcode</p>
             </div>
           </div>
         </section>
