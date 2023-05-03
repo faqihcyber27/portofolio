@@ -2,8 +2,6 @@ import Head from "next/head";
 import {
   AiOutlineGithub,
   AiFillLinkedin,
-  AiFillYoutube,
-  AiFillGitlab,
   AiOutlineWhatsApp,
   AiOutlineMail,
 } from "react-icons/ai";
@@ -70,9 +68,7 @@ export default function Home() {
             </p>
             <div className="text-5xl flex justify-center gap-16 py-3 text-gray-600 dark:text-gray-400">
               <a href="https://github.com/faqihcyber27"><AiOutlineGithub /></a>
-              <a href="https://gitlab.com/jihadwajib68"><AiFillGitlab /></a>
               <a href="https://www.linkedin.com/in/mohamad-faqih-fitrokhudin-salim-184274239/"><AiFillLinkedin /></a>
-              <a href="https://www.youtube.com/channel/UCX7IqVHP7hodJFprHZf4INQ"><AiFillYoutube /></a>
               <a href="https://wa.me/+6281328604423"><AiOutlineWhatsApp /></a>
               <a href="mailto:jihadwajib68@gmail.com"><AiOutlineMail /></a>
             </div>
