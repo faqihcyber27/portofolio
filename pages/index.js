@@ -145,8 +145,6 @@ export default function Home() {
                 src={project1}
               /></a>
             </div>
-          </div>
-          <div className="flex flex-col gap-10 py-10 lg:flex-row lg:flex-wrap">
             <div className="basis-2/3 flex-1">
               <a href="https://www.kalihcoffeetegal.shop"><Image
                 className="rounded-lg object-cover"
