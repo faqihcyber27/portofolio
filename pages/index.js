@@ -14,6 +14,7 @@ import design from "../public/design.png";
 import consulting from "../public/consulting.png";
 import Image from "next/image";
 import project1 from "../public/project1.png"
+import project2 from "../public/project2.png"
 
 export default function Home() {
   const [darkMode, setDarkMode] = useState(false);
@@ -152,7 +153,7 @@ export default function Home() {
                 width={"100%"}
                 height={"100%"}
                 layout="responsive"
-                
+                src={project2}
               /></a>
             </div>
           </div>
