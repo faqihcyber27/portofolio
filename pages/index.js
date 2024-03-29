@@ -55,7 +55,7 @@ export default function Home() {
               options={{
                 strings:[
                   "Fullstack Web Developer",
-                  "IOS Developer"
+                  "Data Analyst"
                 ],
                 changeDelay: 3,
                 changeDeleteSpeed: 2,
@@ -69,7 +69,7 @@ export default function Home() {
             <div className="text-5xl flex justify-center gap-16 py-3 text-gray-600 dark:text-gray-400">
               <a href="https://github.com/faqihcyber27"><AiOutlineGithub /></a>
               <a href="https://www.linkedin.com/in/mohamad-faqih-fitrokhudin-salim-184274239/"><AiFillLinkedin /></a>
-              <a href="https://wa.me/+6281328604423"><AiOutlineWhatsApp /></a>
+              <a href="https://wa.me/+6282138024643"><AiOutlineWhatsApp /></a>
               <a href="mailto:jihadwajib68@gmail.com"><AiOutlineMail /></a>
             </div>
             <div className="mx-auto bg-gradient-to-b from-teal-500 rounded-full w-80 h-80 relative overflow-hidden mt-20 md:h-96 md:w-96">
