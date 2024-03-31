@@ -56,7 +56,7 @@ export default function Home() {
               options={{
                 strings:[
                   "Fullstack Web Developer",
-                  "Data Analyst"
+                  "Software Engineer"
                 ],
                 changeDelay: 3,
                 changeDeleteSpeed: 2,
