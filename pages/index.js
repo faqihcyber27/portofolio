@@ -15,6 +15,7 @@ import consulting from "../public/consulting.png";
 import Image from "next/image";
 import project1 from "../public/project1.png"
 import project2 from "../public/project2.png"
+import project3 from "../public/project3.png"
 
 export default function Home() {
   const [darkMode, setDarkMode] = useState(false);
@@ -152,6 +153,15 @@ export default function Home() {
                 height={"100%"}
                 layout="responsive"
                 src={project2}
+              /></a>
+            </div>
+            <div className="basis-1/3 flex-1">
+              <a href="https://client-mrg.vercel.app"><Image
+                className="rounded-lg object-cover"
+                width={"100%"}
+                height={"100%"}
+                layout="responsive"
+                src={project3}
               /></a>
             </div>
           </div>
